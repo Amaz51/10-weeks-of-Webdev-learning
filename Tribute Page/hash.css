@@ -1,0 +1,84 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 100%;
+    padding: 10px;
+}
+#title{
+    text-align: center;
+    text-transform: uppercase;
+    font-weight: 800px;
+    font-style: italic;
+    text-decoration: underline;
+    padding-top: 10px;
+    border: 0.2em solid black;
+    background-color: rgb(104, 2, 2);
+    color: whitesmoke;
+    word-spacing: 15px;
+    letter-spacing: 0.1em;
+}
+#image{
+    width: 90%;
+    padding: 20px;
+    
+}
+#img-div{
+    background-color: aliceblue;
+    border: 1px solid black;
+    margin: 30px;
+}
+#img-caption{
+    text-align: center;
+    text-shadow: 2px;
+    font-style: italic;
+    font-weight: 800;
+    margin:10px;
+}
+main{
+    background-color:rgb(185, 178, 178);
+}
+section ul li{
+    margin: 16px;
+    
+}
+ul {
+    max-width: 550px;
+    margin: 0 auto 50px auto;
+    text-align: left;
+    line-height: 1.6;
+}
+#block{
+    margin-top: 50px;
+    font-style: italic;
+    color: #0000ff;
+}
+#foot{
+    font-weight: bold;
+    padding: 40px;
+    font-style: italic;
+    font-size: large;
+    border: 3px solid black;
+    text-align: center;
+}
+cite{
+    background-color: maroon;
+    margin: 10px;
+    padding: 3px;
+    color:wheat;
+
+}
+div a:hover{
+    color:rgb(156, 156, 58);
+}
+.box-1{
+    float: left;
+    width: 33%;
+    border: dotted black 1px;
+    padding: 10px;
+    box-sizing: border-box;
+    background-color: rgb(185, 178, 178);
+}
+#boxx{
+    padding-left: -10px;
+    padding-right: -19px;
+    padding-bottom: 40px;
+}
